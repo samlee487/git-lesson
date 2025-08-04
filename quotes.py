@@ -1,6 +1,4 @@
-""
-Some quotes
-""
+"Some quotes"
 
 
 def hello_world():
